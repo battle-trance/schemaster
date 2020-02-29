@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/rec">
+        <file>img/apply22.png</file>
+        <file>img/cut22.png</file>
+        <file>img/delete22.png</file>
+        <file>img/down22.png</file>
+        <file>img/find22.png</file>
+        <file>img/finduser22.png</file>
+        <file>img/info22.png</file>
+        <file>img/left22.png</file>
+        <file>img/new22.png</file>
+        <file>img/right22.png</file>
+        <file>img/save22.png</file>
+        <file>img/up22.png</file>
+    </qresource>
+</RCC>
